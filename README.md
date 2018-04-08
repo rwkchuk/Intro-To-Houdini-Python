@@ -1,2 +1,2 @@
-# Intro-To-Houdini-Python
-Homework assignment from Tech Art 1
+# Tech-Art-1
+Homework assignments from Tech Art 1
